@@ -2,18 +2,18 @@
 <h2>👨‍💻Cybersecurity Related Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - []()
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - []() 
 - <b>SQL</b>
   - [Apply Filters to Queries](https://drive.google.com/file/d/1UDaTnL624KwOCqkx0lDL65VVogn8Llna/view?usp=sharing)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - []()
+  - []()
+  - []()
 - <b>Linux</b>
   - [File Permission](https://drive.google.com/file/d/1kKF1lljDzcABtZCP46CRq3KR_43qSvi1/view?usp=sharing)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - []()
+  - []()
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://drive.google.com/file/d/1YISv4m0DKkujo5n15_Cj1D7lnkrfQtuM/view?usp=sharing)
 
