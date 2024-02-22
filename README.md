@@ -22,7 +22,6 @@
   <img align="left" alt="TamasH | Googlecert." width="44px" src="https://images.credly.com/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" />
   <b>Google Cybersecurity Certificate</b> (https://www.credly.com/badges/fe22481c-733c-426a8e02-fe5e3cb846a2/linked_in_profile)
 
-  
   <b>Wireshark for Beginners: Capture Packets</b> (https://www.coursera.org/account/accomplishments/verify/WDGSCWCAKJ63)
 
  
