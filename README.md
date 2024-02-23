@@ -1,9 +1,9 @@
 <h1>Hi, I'm Tamas! , <a href="https://www.linkedin.com/in/tamas-horvath-5420488a/"> Junior Cybersecurity Professional</a>
 <h2>👨‍💻Cybersecurity Related Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Maleware analysys</b>
   - []()
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>SIEM</b>
   - []() 
 - <b>SQL</b>
   - [Apply Filters to Queries](https://drive.google.com/file/d/1UDaTnL624KwOCqkx0lDL65VVogn8Llna/view?usp=sharing)
