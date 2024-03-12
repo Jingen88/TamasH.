@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tamas! , <a href="https://www.linkedin.com/in/tamas-horvath-5420488a/"> Junior Cybersecurity Professional</a>
 <h2>👨‍💻Cybersecurity Related Projects:</h2>
 
-- <b>Maleware analysys</b>
+- <b>Active Directory</b>
   - []()
 - <b>SIEM</b>
   - [Deploying And Monitoring Elastic SIEM Home lab on Kali VM](https://drive.google.com/file/d/1dlSFzUPWi6_oC9n-aMmJcjRxaRcBQYwg/view?usp=sharing)
