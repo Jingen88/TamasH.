@@ -18,6 +18,7 @@
   - []()
 - <b>Python</b>
   - [Algorithm for file updates in Python](https://drive.google.com/file/d/1YISv4m0DKkujo5n15_Cj1D7lnkrfQtuM/view?usp=sharing)
+  - [Bruteforcing Decryption Key Using Python Script](https://docs.google.com/document/d/1tZB615g5a3eetIBWD_g2rimSowvFXsr0OyxJfFMWMDs/edit?usp=sharing)
 
 <h2>📄 Certifications:</h2>
 
