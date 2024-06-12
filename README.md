@@ -3,7 +3,7 @@
 
 - <b>Active Directory Home Lab</b>
   - [Setting up AD Home Lab with Splunk and Sysmon](https://docs.google.com/document/d/1LWqkzyIScxA9BdKqv0D8uPDyL8GXIFmmWvm9eLoAs24/edit?usp=drive_link)
-  - [Brute Force Attack]()
+  - [Brute Force Attack](https://docs.google.com/document/d/18Cr-6vVfS2j6QkUnegsaqnQl3CqJ97jii622ot5a8LE/edit?usp=sharing)
 - <b>SIEM</b>
   - [Deploying And Monitoring Elastic SIEM Home lab on Kali VM](https://drive.google.com/file/d/1dlSFzUPWi6_oC9n-aMmJcjRxaRcBQYwg/view?usp=sharing)
   -  
