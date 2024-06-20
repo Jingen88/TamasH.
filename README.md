@@ -28,6 +28,9 @@
 <img align="left" alt="TamasH | Googlecert2." width="22px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/http://coursera-university-assets.s3.amazonaws.com/89/a0db8f3ea3417ca90d4f3a4ca1d73e/coursera-projectnetwork-purplesquare.png?auto=format%2Ccompress&dpr=2&w=80&h=80" /> 
   [<b>Wireshark for Beginners: Capture Packets</b>] : https://www.coursera.org/account/accomplishments/verify/WDGSCWCAKJ63
 
+<img align="left" alt="TamasH | Googlecert2." width="22px" src= "https://cycubix.com/wp-content/uploads/2023/08/ISC2_CC_RGB__mark.jpeg" />
+   [<b>ISC2: Certified in Cybersecurity Certificate</b>]:
+  
  
       
 
